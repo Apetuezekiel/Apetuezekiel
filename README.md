@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Ezekiel Apetu
 
-<!--
-**Apetuezekiel/Apetuezekiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and SaaS founder based in Lagos, Nigeria. I build products that solve real problems — currently shipping **FOKiiS**, a photography business management platform for Nigerian photographers.
 
-Here are some ideas to get you started:
+**What I work with:** TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS, AWS, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm doing:**
+- Building and scaling SaaS products at [Zicstack Innovations](https://github.com/Apetuezekiel)
+- Contributing to open source — [Cal.com](https://github.com/calcom/cal.diy), [Twenty CRM](https://github.com/twentyhq/twenty), [Dub](https://github.com/dubinc/dub)
+- Senior Software Engineer at Netplus
+
+**Certifications:** AWS Solutions Architect (Associate) · PSPO I
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Apetuezekiel&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
